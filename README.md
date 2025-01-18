@@ -26,6 +26,9 @@ This project aims to analyze the performance and salary data of cricket players 
 #### Data: 
 * The project involves multiple arrays and matrices storing data on players' salaries, games played, and performance points for each year.
 
+### Summary:
+This project provides a deep dive into the relationships between player performance, games played, and salaries in the sport of cricket. Using Python and numpy, it processes a large dataset spanning ten seasons, allowing for data analysis, insights generation, and potential conclusions regarding salary distributions and performance trends. The analysis performed in this project could be helpful for understanding player contracts and performance evaluation in professional cricket leagues. The project's successful implementation showcases the power of data science in sports analytics, using statistical tools to make sense of complex datasets.
+
 
 
 
