@@ -19,12 +19,12 @@ This project aims to analyze the performance and salary data of cricket players 
 * Interpreting the results to determine which factors (games played, performance points) are most strongly correlated with salary increases or decreases.
 
 ### Tools Used:
-##### * Python: 
-The main programming language used for data analysis and processing.
-##### * NumPy: 
-For working with multi-dimensional arrays, performing mathematical operations on large datasets, and handling matrix operations.
-##### * Data: 
-The project involves multiple arrays and matrices storing data on players' salaries, games played, and performance points for each year.
+#### Python: 
+* The main programming language used for data analysis and processing.
+#### NumPy: 
+* For working with multi-dimensional arrays, performing mathematical operations on large datasets, and handling matrix operations.
+#### Data: 
+* The project involves multiple arrays and matrices storing data on players' salaries, games played, and performance points for each year.
 
 
 
